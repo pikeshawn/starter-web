@@ -12,4 +12,9 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+This is how to contribute
 ## Deployment
+
+This how you deploy this project.
+
+Another way to contribute
