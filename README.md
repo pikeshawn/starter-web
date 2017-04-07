@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work. Simple website
 
 ## Introduction
 
-THis is an introduction
+THis is an introduction. this is more text for my introduction for rebasing
 
 ## Purpose
 
