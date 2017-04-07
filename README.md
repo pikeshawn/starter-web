@@ -21,3 +21,5 @@ Another way to contribute
 
 ## Copywrite
 this is a notice for a copywrite
+
+Please fork this repository and then push for review
