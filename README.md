@@ -18,3 +18,6 @@ This is how to contribute
 This how you deploy this project.
 
 Another way to contribute
+
+## Copywrite
+this is a notice for a copywrite
