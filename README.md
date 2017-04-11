@@ -19,6 +19,8 @@ This how you deploy this project.
 
 Another way to contribute
 
+some more edits
+
 ## Copywrite
 this is a notice for a copywrite ALl rights reserved.
 
