@@ -20,6 +20,6 @@ This how you deploy this project.
 Another way to contribute
 
 ## Copywrite
-this is a notice for a copywrite
+this is a notice for a copywrite ALl rights reserved.
 
 Please fork this repository and then push for review
